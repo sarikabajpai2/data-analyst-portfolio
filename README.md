@@ -88,25 +88,29 @@ DIVIDE(
     0
 )
 
-Key Insights
-The dataset contains 800 total registrations and 551 actual attendees.
-The overall attendance rate was 77.28% of confirmed registrations.
-Corporate Wellness Day recorded the highest number of registrations among the events.
-Participation can be compared across events, departments, cities, and months.
-Comparing registrations with actual attendance helps identify events with stronger or weaker participation.
-Interactive slicers allow users to explore the dashboard based on Event Category, City, and Department.
-Skills Demonstrated
-Data Cleaning & Validation
-Microsoft Excel
-Power BI
-DAX
-Data Visualization
-KPI Development
-Interactive Dashboard Design
-Business Analysis
-Data Interpretation
-Reporting & Presentation
-Project Outcome
+```
+## Key Insights
+
+- The dataset contains 800 total registrations and 551 actual attendees.
+- The overall attendance rate was 77.28% of confirmed registrations.
+- Corporate Wellness Day recorded the highest number of registrations among the events.
+- Participation can be compared across events, departments, cities, and months.
+- Comparing registrations with actual attendance helps identify events with stronger or weaker participation.
+- Interactive slicers allow users to explore the dashboard based on Event Category, City, and Department.
+
+## Skills Demonstrated
+
+- Data Cleaning & Validation
+- Microsoft Excel
+- Power BI
+- DAX
+- Data Visualization
+- KPI Development
+- Interactive Dashboard Design
+- Business Analysis
+- Data Interpretation
+- Reporting & Presentation
+  
+## Project Outcome
 
 This project demonstrates the ability to transform raw business data into a structured, interactive dashboard and communicate meaningful insights through KPIs and visualizations.
-
